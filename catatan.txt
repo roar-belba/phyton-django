@@ -4,4 +4,4 @@ tiga
 2
 menghapus tiga
 4
-5
+5 menambhakan 5

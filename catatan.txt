@@ -2,6 +2,6 @@ satu
 dua
 tiga
 2
-3
+menghapus tiga
 4
 5
